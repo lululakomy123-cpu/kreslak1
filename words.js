@@ -1,0 +1,25 @@
+// Lista haseł. Dodawaj własne – po jednym w cudzysłowie, oddzielone przecinkami.
+module.exports = [
+'kot','pies','dom','drzewo','słońce','księżyc','gwiazda','rower','samochód','samolot','statek','pociąg','autobus','rakieta','balon',
+'jabłko','banan','gruszka','truskawka','arbuz','cytryna','winogrona','wiśnia','marchewka','pomidor','ogórek','ziemniak','cebula','kukurydza',
+'chleb','ser','jajko','pizza','hamburger','frytki','lody','tort','ciastko','czekolada','cukierek','kawa','herbata','mleko','sok','woda',
+'butelka','szklanka','talerz','widelec','nóż','łyżka','garnek','patelnia','lodówka','piekarnik','czajnik','stół','krzesło','łóżko','szafa',
+'lampa','okno','drzwi','klucz','dywan','poduszka','zegar','telefon','komputer','klawiatura','myszka','telewizor','radio','aparat','kamera',
+'książka','zeszyt','ołówek','długopis','nożyczki','linijka','plecak','torba','parasol','okulary','kapelusz','czapka','szalik','rękawiczki',
+'buty','skarpetka','spodnie','sukienka','koszula','kurtka','zegarek','pierścionek','korona','miecz','tarcza','smok','rycerz','księżniczka',
+'czarownica','duch','wampir','zombie','robot','kosmita','pirat','klaun','kowboj','ninja','policjant','strażak','lekarz','kucharz',
+'nauczyciel','listonosz','górnik','rolnik','astronauta','wąż','pająk','motyl','pszczoła','mrówka','biedronka','ślimak','żaba','ryba',
+'rekin','wieloryb','delfin','ośmiornica','krab','żółw','krokodyl','lew','tygrys','słoń','żyrafa','zebra','małpa','niedźwiedź','wilk',
+'lis','zając','wiewiórka','jeż','sarna','koń','krowa','świnia','owca','koza','kura','kogut','kaczka','gęś','orzeł','sowa','papuga',
+'pingwin','flaming','góra','wulkan','jezioro','rzeka','morze','plaża','wyspa','las','pustynia','jaskinia','wodospad','tęcza','chmura',
+'deszcz','śnieg','burza','piorun','wiatr','bałwan','płatek śniegu','choinka','prezent','świeca','fajerwerki','kwiat','róża',
+'słonecznik','tulipan','trawa','grzyb','kaktus','liść','szyszka','most','wieża','latarnia morska','wiatrak','kościół','szkoła',
+'szpital','sklep','fabryka','stadion','kino','cyrk','park','ławka','huśtawka','zjeżdżalnia','piłka','bramka','koszykówka','tenis',
+'narty','łyżwy','deskorolka','wędka','namiot','ognisko','kompas','mapa','skarb','gitara','pianino','skrzypce','perkusja','trąbka',
+'mikrofon','słuchawki','nuta','balet','magik','karty','szachy','kostka','puzzle','klocki','miś','lalka','latawiec','bańka mydlana',
+'dmuchawiec','oko','ucho','nos','usta','ząb','ręka','noga','serce','mózg','szkielet','czaszka','młotek','śrubokręt','piła','drabina',
+'wiadro','miotła','odkurzacz','pralka','żelazko','żarówka','bateria','magnes','lupa','teleskop','mikroskop','termometr','strzykawka',
+'apteczka','plaster','maska','łuk','strzała','armata','czołg','helikopter','łódź podwodna','traktor','wózek','hulajnoga','motocykl',
+'taksówka','karetka','wóz strażacki','dźwig','koparka','sygnalizacja świetlna','bilet','paszport','walizka','hotel','pocztówka','list',
+'koperta','moneta','banknot','portfel','skarbonka','diament','kłódka','piramida','sfinks','mumia','jednorożec','syrena','yeti','dinozaur'
+];

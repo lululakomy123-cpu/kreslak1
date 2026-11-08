@@ -1,0 +1,10 @@
+{
+  "name": "kreslak",
+  "version": "1.0.0",
+  "description": "Kreślak – wieloosobowa gra w rysowanie i zgadywanie (wzorowana na skribbl.io)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "dependencies": { "ws": "^8.18.0" },
+  "license": "MIT"
+}
